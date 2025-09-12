@@ -1,0 +1,14 @@
+{
+    "andrew": {
+        "password": "andrew123",
+        "tasks": [
+            "Create C++ as backend and React as frontend."
+        ]
+    },
+    "ppaull": {
+        "password": "jooo",
+        "tasks": [
+            "Create more C++ programs."
+        ]
+    }
+}
